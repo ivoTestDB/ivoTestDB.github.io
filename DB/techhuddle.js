@@ -1,0 +1,229 @@
+jsonFlickrFeed({
+		"title": "Uploads from everyone",
+		"link": "https:\/\/www.flickr.com\/photos\/",
+		"description": "",
+		"modified": "2018-07-04T10:31:01Z",
+		"generator": "https:\/\/www.flickr.com",
+		"items": [
+	   {
+			"title": "5b3ca1e570376",
+			"link": "https:\/\/www.flickr.com\/photos\/131792590@N08\/28322506137\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1785\/28322506137_e4a92e224c_m.jpg"},
+			"date_taken": "2018-07-04T03:31:01-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/131792590@N08\/\">tezvietnam<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/131792590@N08\/28322506137\/\" title=\"5b3ca1e570376\"><img src=\"https:\/\/farm2.staticflickr.com\/1785\/28322506137_e4a92e224c_m.jpg\" width=\"240\" height=\"135\" alt=\"5b3ca1e570376\" \/><\/a><\/p> <p>by-[ChipVN]-Image-Uploader<\/p>",
+			"published": "2018-07-04T10:31:01Z",
+			"author": "nobody@flickr.com (\"tezvietnam\")",
+			"author_id": "131792590@N08",
+			"tags": "bychipvnimageuploader"
+	   },
+	   {
+			"title": "Exit Realty whitepaper looks at mergers and acquisitions",
+			"link": "https:\/\/www.flickr.com\/photos\/felishasheats\/28322506787\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1764\/28322506787_4c73a45b05_m.jpg"},
+			"date_taken": "2018-07-04T03:31:03-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/felishasheats\/\">FelishaSheats<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/felishasheats\/28322506787\/\" title=\"Exit Realty whitepaper looks at mergers and acquisitions\"><img src=\"https:\/\/farm2.staticflickr.com\/1764\/28322506787_4c73a45b05_m.jpg\" width=\"240\" height=\"148\" alt=\"Exit Realty whitepaper looks at mergers and acquisitions\" \/><\/a><\/p> <p>via WordPress <a href=\"https:\/\/ift.tt\/2KtDD6d\" rel=\"nofollow\">ift.tt\/2KtDD6d<\/a><br \/> <br \/> Is it a good time to sell your real estate business, or a good time to acquire an existing company? A white paper by Exit Realty Corp. international CEO Tami Bonnell says the market is equally primed for both.<br \/> <br \/> \u201cEven with advances in artificial intelligence and artificial valuation models, I believe that most of the business will continue to be transacted by real estate professionals,\u201d says Bonnell.<br \/> <br \/> \u201cTechnology will not replace real estate agents, but real estate agents who do not use technology effectively will be replaced by those who do. Many smaller companies can\u2019t afford the technology, are afraid of it, or don\u2019t want the responsibility of keeping abreast of the latest innovations. Now is the time to make a move.\u201d<br \/> <br \/> [banner]<br \/> <br \/> She says the key reasons for wanting to sell an existing brokerage or wanting to merge with another operation are:<br \/> <br \/> the brokerage isn\u2019t making enough money, or the margin is reducing<br \/> <br \/> leadership struggles<br \/> <br \/> teams are taking control of the brokerage<br \/> <br \/> partnership or health issues<br \/> <br \/> \u201cIn my experience, the majority of the broker\/owners facing these issues simply want to retire, or shift focus by staying on after their business is acquired and working in a different capacity,\u201d says Bonnell. \u201cThey care about their people and want to ensure their agents and staff will be well-treated. Regardless of the size of the companies involved and whether they are acquiring or being acquired, there are some important considerations:<br \/> <br \/> \u201cThe business philosophies of the leadership on both sides should agree.<br \/> <br \/> \u201cThe merging of companies is similar to the blending of families; it is important to take the good qualities from both companies, so everyone has a sense of belonging.<br \/> <br \/> \u201cGood communication. Stay connected and help everyone understand that it will take time to blend.\u201d<br \/> <br \/> Bonnell says the No. 1 reason that mergers or acquisitions fail is due to \u201cinattention to the people involved.<br \/> <br \/> \u201cOftentimes, the acquiring company not only buys the business but also \u201cbuys\u201d its leader so similar business ethics, values and philosophies are key. Failure occurs when the newly merged leadership doesn\u2019t pay attention to the agents (old or new) and the result is an empty building when everyone leaves.\u201d<br \/> <br \/> The full whitepaper can be downloaded here.<br \/> <br \/> The post Exit Realty whitepaper looks at mergers and acquisitions appeared first on REM | Real Estate Magazine.<br \/> <br \/> Exit Realty whitepaper looks at mergers and acquisitions published first on <a href=\"https:\/\/oicrealestate.tumblr.com\/\" rel=\"nofollow\">oicrealestate.tumblr.com\/<\/a><\/p>",
+			"published": "2018-07-04T10:31:03Z",
+			"author": "nobody@flickr.com (\"FelishaSheats\")",
+			"author_id": "152900672@N06",
+			"tags": "uncategorized"
+	   },
+	   {
+			"title": "5b3c910ac74a5.jpg",
+			"link": "https:\/\/www.flickr.com\/photos\/126726242@N02\/28322507427\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/839\/28322507427_b7dcd50cd1_m.jpg"},
+			"date_taken": "2018-07-04T03:31:04-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/126726242@N02\/\">www.natalyashik.ru<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/126726242@N02\/28322507427\/\" title=\"5b3c910ac74a5.jpg\"><img src=\"https:\/\/farm1.staticflickr.com\/839\/28322507427_b7dcd50cd1_m.jpg\" width=\"240\" height=\"180\" alt=\"5b3c910ac74a5.jpg\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:31:04Z",
+			"author": "nobody@flickr.com (\"www.natalyashik.ru\")",
+			"author_id": "126726242@N02",
+			"tags": ""
+	   },
+	   {
+			"title": "Lost in thoughts...",
+			"link": "https:\/\/www.flickr.com\/photos\/bretweir\/29320309208\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1826\/29320309208_e44e3894ae_m.jpg"},
+			"date_taken": "2018-06-22T14:48:35-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/bretweir\/\">Whole Shot Motocross Photography<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/bretweir\/29320309208\/\" title=\"Lost in thoughts...\"><img src=\"https:\/\/farm2.staticflickr.com\/1826\/29320309208_e44e3894ae_m.jpg\" width=\"240\" height=\"150\" alt=\"Lost in thoughts...\" \/><\/a><\/p> <p>Model and make-up: Leentje INSTAGRAM | WEBSITE via 500px <a href=\"https:\/\/ift.tt\/2z951kD\" rel=\"nofollow\">ift.tt\/2z951kD<\/a><\/p>",
+			"published": "2018-07-04T10:30:52Z",
+			"author": "nobody@flickr.com (\"Whole Shot Motocross Photography\")",
+			"author_id": "88288644@N00",
+			"tags": "500px femininity comfortable beauty beautiful girl model female young warm tender dreamer brunette woman sony a7rm3 14 window light fresnel arri elegance elegant feminine mood hotelroom"
+	   },
+	   {
+			"title": "\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e01\u0e31\u0e1a\u0e14\u0e2d\u0e01\u0e14\u0e32\u0e27\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22",
+			"link": "https:\/\/www.flickr.com\/photos\/11712888@N04\/29320309418\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/839\/29320309418_3327835212_m.jpg"},
+			"date_taken": "2018-07-04T17:11:22-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/11712888@N04\/\">kobpan<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/11712888@N04\/29320309418\/\" title=\"\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e01\u0e31\u0e1a\u0e14\u0e2d\u0e01\u0e14\u0e32\u0e27\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\"><img src=\"https:\/\/farm1.staticflickr.com\/839\/29320309418_3327835212_m.jpg\" width=\"240\" height=\"135\" alt=\"\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e01\u0e31\u0e1a\u0e14\u0e2d\u0e01\u0e14\u0e32\u0e27\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:53Z",
+			"author": "nobody@flickr.com (\"kobpan\")",
+			"author_id": "11712888@N04",
+			"tags": ""
+	   },
+	   {
+			"title": "Riga, 3 giugno 2018",
+			"link": "https:\/\/www.flickr.com\/photos\/gbraschi\/29320310238\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1829\/29320310238_62bf5f929d_m.jpg"},
+			"date_taken": "2018-06-03T09:49:13-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/gbraschi\/\">gbraschi<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/gbraschi\/29320310238\/\" title=\"Riga, 3 giugno 2018\"><img src=\"https:\/\/farm2.staticflickr.com\/1829\/29320310238_62bf5f929d_m.jpg\" width=\"240\" height=\"160\" alt=\"Riga, 3 giugno 2018\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:57Z",
+			"author": "nobody@flickr.com (\"gbraschi\")",
+			"author_id": "66391023@N00",
+			"tags": ""
+	   },
+	   {
+			"title": "IMG_20180703_110235",
+			"link": "https:\/\/www.flickr.com\/photos\/makgregory\/29320310288\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/925\/29320310288_db0fe2c6c4_m.jpg"},
+			"date_taken": "2018-07-03T11:02:36-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/makgregory\/\">fotosmak<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/makgregory\/29320310288\/\" title=\"IMG_20180703_110235\"><img src=\"https:\/\/farm1.staticflickr.com\/925\/29320310288_db0fe2c6c4_m.jpg\" width=\"240\" height=\"180\" alt=\"IMG_20180703_110235\" \/><\/a><\/p> <p>cof<\/p>",
+			"published": "2018-07-04T10:30:58Z",
+			"author": "nobody@flickr.com (\"fotosmak\")",
+			"author_id": "77256831@N00",
+			"tags": ""
+	   },
+	   {
+			"title": "DSC_6702",
+			"link": "https:\/\/www.flickr.com\/photos\/125296602@N06\/29320310398\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1806\/29320310398_16025d0024_m.jpg"},
+			"date_taken": "2018-03-13T17:31:01-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/125296602@N06\/\">tatrozenfeld@yahoo.co.il<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/125296602@N06\/29320310398\/\" title=\"DSC_6702\"><img src=\"https:\/\/farm2.staticflickr.com\/1806\/29320310398_16025d0024_m.jpg\" width=\"240\" height=\"159\" alt=\"DSC_6702\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:58Z",
+			"author": "nobody@flickr.com (\"tatrozenfeld@yahoo.co.il\")",
+			"author_id": "125296602@N06",
+			"tags": ""
+	   },
+	   {
+			"title": "439062_womenw",
+			"link": "https:\/\/www.flickr.com\/photos\/154253254@N05\/29320311368\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1828\/29320311368_d4301afb07_m.jpg"},
+			"date_taken": "2012-10-05T23:38:22-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/154253254@N05\/\">lovemenora345<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/154253254@N05\/29320311368\/\" title=\"439062_womenw\"><img src=\"https:\/\/farm2.staticflickr.com\/1828\/29320311368_d4301afb07_m.jpg\" width=\"240\" height=\"130\" alt=\"439062_womenw\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:31:05Z",
+			"author": "nobody@flickr.com (\"lovemenora345\")",
+			"author_id": "154253254@N05",
+			"tags": ""
+	   },
+	   {
+			"title": "Le temps des cerises",
+			"link": "https:\/\/www.flickr.com\/photos\/147772164@N06\/41381269430\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/843\/41381269430_e4f093c3b1_m.jpg"},
+			"date_taken": "2018-06-24T12:44:34-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/147772164@N06\/\">Priorit\u00e9 Ouverture<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/147772164@N06\/41381269430\/\" title=\"Le temps des cerises\"><img src=\"https:\/\/farm1.staticflickr.com\/843\/41381269430_e4f093c3b1_m.jpg\" width=\"240\" height=\"180\" alt=\"Le temps des cerises\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:51Z",
+			"author": "nobody@flickr.com (\"Priorit\u00e9 Ouverture\")",
+			"author_id": "147772164@N06",
+			"tags": "lumix gx80 cc\u00e9dric cerises"
+	   },
+	   {
+			"title": "Cycling in Ceres",
+			"link": "https:\/\/www.flickr.com\/photos\/fotos_by_findlay\/43142087452\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/915\/43142087452_16ff3aa1df_m.jpg"},
+			"date_taken": "2018-06-30T15:49:59-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/fotos_by_findlay\/\">FotoFling Scotland<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/fotos_by_findlay\/43142087452\/\" title=\"Cycling in Ceres\"><img src=\"https:\/\/farm1.staticflickr.com\/915\/43142087452_16ff3aa1df_m.jpg\" width=\"240\" height=\"192\" alt=\"Cycling in Ceres\" \/><\/a><\/p> <p>Ceres Highland Games 2018<\/p>",
+			"published": "2018-07-04T10:30:52Z",
+			"author": "nobody@flickr.com (\"FotoFling Scotland\")",
+			"author_id": "11451860@N08",
+			"tags": "cereshighlandgames ceres fife highlandgames sport cycling flickr"
+	   },
+	   {
+			"title": "Usa 2017",
+			"link": "https:\/\/www.flickr.com\/photos\/142884171@N08\/43142088042\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1785\/43142088042_daf28dab5e_m.jpg"},
+			"date_taken": "2017-05-12T17:17:57-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/142884171@N08\/\">justinebaccot<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/142884171@N08\/43142088042\/\" title=\"Usa 2017\"><img src=\"https:\/\/farm2.staticflickr.com\/1785\/43142088042_daf28dab5e_m.jpg\" width=\"240\" height=\"103\" alt=\"Usa 2017\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:55Z",
+			"author": "nobody@flickr.com (\"justinebaccot\")",
+			"author_id": "142884171@N08",
+			"tags": ""
+	   },
+	   {
+			"title": "\u0628\u0631\u0627\u06cc \u062d\u0641\u0638 \u0633\u0644\u0627\u0645\u062a\u06cc \u0627\u0632 \ufb7c\ufeea \ufb7c\ufbff\ufeb0\u0647\u0627\u06cc\u06cc \ufe91\ufe8e\ufbfe\ufeaa \u0627\ufe9f\ufe98\ufee8\ufe8e\u0628 \ufee7\ufee4\ufeee\u062f\u061f",
+			"link": "https:\/\/www.flickr.com\/photos\/160086533@N02\/43142088802\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1801\/43142088802_6bae249fdc_m.jpg"},
+			"date_taken": "2018-07-04T03:30:58-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/160086533@N02\/\">PUC4PNLMFNA2LU4TEPVT6IU55B<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/160086533@N02\/43142088802\/\" title=\"\u0628\u0631\u0627\u06cc \u062d\u0641\u0638 \u0633\u0644\u0627\u0645\u062a\u06cc \u0627\u0632 \ufb7c\ufeea \ufb7c\ufbff\ufeb0\u0647\u0627\u06cc\u06cc \ufe91\ufe8e\ufbfe\ufeaa \u0627\ufe9f\ufe98\ufee8\ufe8e\u0628 \ufee7\ufee4\ufeee\u062f\u061f\"><img src=\"https:\/\/farm2.staticflickr.com\/1801\/43142088802_6bae249fdc_m.jpg\" width=\"240\" height=\"112\" alt=\"\u0628\u0631\u0627\u06cc \u062d\u0641\u0638 \u0633\u0644\u0627\u0645\u062a\u06cc \u0627\u0632 \ufb7c\ufeea \ufb7c\ufbff\ufeb0\u0647\u0627\u06cc\u06cc \ufe91\ufe8e\ufbfe\ufeaa \u0627\ufe9f\ufe98\ufee8\ufe8e\u0628 \ufee7\ufee4\ufeee\u062f\u061f\" \/><\/a><\/p> <p>\u0628\u0631\u0627\u06cc \u062d\u0641\u0638 \u0633\u0644\u0627\u0645\u062a\u06cc \u0627\u0632 \ufb7c\ufeea \ufb7c\ufbff\ufeb0\u0647\u0627\u06cc\u06cc \ufe91\ufe8e\ufbfe\ufeaa \u0627\ufe9f\ufe98\ufee8\ufe8e\u0628 \ufee7\ufee4\ufeee\u062f\u061f<br \/> \u0622\u0646 \ufea7\ufeb8\ufb91\ufe92\ufe8e\u0631\u06cc \u0631\u0627 \ufb90\ufeea \ufe91\ufe8e \ufb94\ufeee\ufb94\ufeae\u062f \ufbfe\ufe8e \ufe97\ufbff\ufeb0 \u0622\u0628 \u0648 \ufbfe\ufe8e \ufe91\ufe8e \ufee3\ufeee\u0627\u062f \ufeb7\ufbff\ufee4\ufbff\ufe8e\ufbfe\ufbfd \u062f\ufbfe\ufb95\ufeae \ufe91\ufeea \ufecb\ufee4\ufede \u0622\ufee3\ufeaa\u0647 \u0627\ufeb3\ufe96 \ufe91\ufeea \ufeeb\ufbff\ufb7b \u0648\ufe9f\ufeea \ufee7\ufe92\ufe8e\ufbfe\ufeaa \ufee3\ufebc\ufeae\u0641 \ufee7\ufee4\ufeee\u062f\u060c \ufb7c\ufeee\u0646 \ufeeb\ufbff\ufb7b \u0627\u0631\u0632\u0634 \ufecf\ufeac\u0627\ufbfe\ufbfd \ufee7\ufeaa\u0627\u0631\u062f \u0648 \ufed3\ufed8\ufec2 \ufee3\ufe8e\u062f\u0647 \u0627\u06cc \u0627\ufeb3\ufe96 \u0632\ufeeb\ufeae\u0622\ufedf\ufeee\u062f\u060c \u0628\u0637\u0648\u0631\u06cc\u06a9\u0647 \ufb90\ufeae\u0645 \ufeeb\ufee2 \ufe91\ufeea \u0622\u0646 \ufee7\ufeb0\u062f\ufbfe\ufb8f \ufee7\ufee4\ufbfd\ufeb7\ufeee\u062f. \u0622\u0646 \u0631\u0648\ufecf\ufee6 \u0632\ufbfe\ufe98\ufeee\ufee7\ufbfd \u0631\u0627 \ufe91\ufe8e\ufbfe\ufeaa \ufee3\ufebc\ufeae\u0641 \ufee7\ufee4\ufeee\u062f \ufb90\ufeea \ufe91\ufe8e \ufee3\ufeee\u0627\u062f \ufeb7\ufbff\ufee4\ufbff\ufe8e\ufbfe\ufbfd\u060c \ufe97\ufebc\ufed4... <br \/> <br \/> <a href=\"https:\/\/is.gd\/OBq025\" rel=\"nofollow\">is.gd\/OBq025<\/a><br \/> <br \/> \u0627\u0631\u0632\u0634 \ufecf\ufeac\u0627\ufbfe\ufbfd, \u062e\u0627\u0645 \u062e\u0648\u0627\u0631\u06cc, \u0631\u0698\u06cc\u0645, \u0631\u0698\u06cc\u0645 \u062e\u0627\u0645 \u062e\u0648\u0627\u0631\u06cc, \u0631\u0698\u06cc\u0645 \u063a\u0630\u0627\u06cc\u06cc \u0645\u0646\u0627\u0633\u0628 \u0686\u06cc\u0633\u062a, \u0632\u0646\u062f\u0647 \u062e\u0648\u0627\u0631\u06cc, \u0635\u0627\u0628\u0648\u0646, \u0635\u0627\u0628\u0648\u0646 \u0633\u062f\u0631, \u0635\u0627\u0628\u0648\u0646 \u06af\u06cc\u0627\u0647\u06cc, \u0639\u0648\u0627\u0631\u0636 \u06a9\u0648\u062f\u0647\u0627\u06cc \u0634\u06cc\u0645\u06cc\u0627\u06cc\u06cc, \ufecf\ufeac\u0627\u06cc \ufea7\ufe8e\u0645 \ufb94\ufbff\ufe8e\ufeeb\ufbfd, \ufecf\ufeac\u0627\u06cc \u0632\ufee7\ufeaa\u0647 \u0686\u06cc\u0633\u062a, \u0645\u0636\u0631\u0627\u062a \u0622\u0628 \u0644\u0648\u0644\u0647 \u06a9\u0634\u06cc<\/p>",
+			"published": "2018-07-04T10:30:58Z",
+			"author": "nobody@flickr.com (\"PUC4PNLMFNA2LU4TEPVT6IU55B\")",
+			"author_id": "160086533@N02",
+			"tags": "\u0627\u0631\u0632\u0634\ufecf\ufeac\u0627\ufbfe\ufbfd \u062e\u0627\u0645\u062e\u0648\u0627\u0631\u06cc \u0631\u0698\u06cc\u0645 \u0631\u0698\u06cc\u0645\u062e\u0627\u0645\u062e\u0648\u0627\u0631\u06cc \u0631\u0698\u06cc\u0645\u063a\u0630\u0627\u06cc\u06cc\u0645\u0646\u0627\u0633\u0628\u0686\u06cc\u0633\u062a \u0632\u0646\u062f\u0647\u062e\u0648\u0627\u0631\u06cc \u0635\u0627\u0628\u0648\u0646 \u0635\u0627\u0628\u0648\u0646\u0633\u062f\u0631 \u0635\u0627\u0628\u0648\u0646\u06af\u06cc\u0627\u0647\u06cc \u0639\u0648\u0627\u0631\u0636\u06a9\u0648\u062f\u0647\u0627\u06cc\u0634\u06cc\u0645\u06cc\u0627\u06cc\u06cc \ufecf\ufeac\u0627\u06cc\ufea7\ufe8e\u0645\ufb94\ufbff\ufe8e\ufeeb\ufbfd \ufecf\ufeac\u0627\u06cc\u0632\ufee7\ufeaa\u0647\u0686\u06cc\u0633\u062a \u0645\u0636\u0631\u0627\u062a\u0622\u0628\u0644\u0648\u0644\u0647\u06a9\u0634\u06cc"
+	   },
+	   {
+			"title": " ",
+			"link": "https:\/\/www.flickr.com\/photos\/22127173@N05\/43142089302\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/839\/43142089302_3cda184774_m.jpg"},
+			"date_taken": "2018-07-04T16:04:56-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/22127173@N05\/\">truongchantrung<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/22127173@N05\/43142089302\/\" title=\" \"><img src=\"https:\/\/farm1.staticflickr.com\/839\/43142089302_3cda184774_m.jpg\" width=\"240\" height=\"180\" alt=\" \" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:31:00Z",
+			"author": "nobody@flickr.com (\"truongchantrung\")",
+			"author_id": "22127173@N05",
+			"tags": ""
+	   },
+	   {
+			"title": "Scotland East Coast St Andres castle 28 June 2018 by Anne MacKay",
+			"link": "https:\/\/www.flickr.com\/photos\/annexxxcdscotland\/43142089392\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1804\/43142089392_1f1c85074c_m.jpg"},
+			"date_taken": "2018-06-28T14:28:48-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/annexxxcdscotland\/\">Anne MacKay images of interest &amp; wonder<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/annexxxcdscotland\/43142089392\/\" title=\"Scotland East Coast St Andres castle 28 June 2018 by Anne MacKay\"><img src=\"https:\/\/farm2.staticflickr.com\/1804\/43142089392_1f1c85074c_m.jpg\" width=\"240\" height=\"193\" alt=\"Scotland East Coast St Andres castle 28 June 2018 by Anne MacKay\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:31:01Z",
+			"author": "nobody@flickr.com (\"Anne MacKay images of interest & wonder\")",
+			"author_id": "42643228@N07",
+			"tags": ""
+	   },
+	   {
+			"title": "DSCF2820",
+			"link": "https:\/\/www.flickr.com\/photos\/aenigmates\/43191570731\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/920\/43191570731_35c1f7c6af_m.jpg"},
+			"date_taken": "2018-01-23T15:15:16-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/aenigmates\/\">aenigmat\u0113s<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/aenigmates\/43191570731\/\" title=\"DSCF2820\"><img src=\"https:\/\/farm1.staticflickr.com\/920\/43191570731_35c1f7c6af_m.jpg\" width=\"240\" height=\"160\" alt=\"DSCF2820\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:51Z",
+			"author": "nobody@flickr.com (\"aenigmat\u0113s\")",
+			"author_id": "54264114@N06",
+			"tags": ""
+	   },
+	   {
+			"title": "Teknik Tebak Permainan Judi Dadu Kocok Kopyok Uang Asli",
+			"link": "https:\/\/www.flickr.com\/photos\/153431116@N08\/43191571631\/",
+			"media": {"m":"https:\/\/farm1.staticflickr.com\/919\/43191571631_f898bbcbd2_m.jpg"},
+			"date_taken": "2018-04-23T06:53:19-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/153431116@N08\/\">PJBPRO<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/153431116@N08\/43191571631\/\" title=\"Teknik Tebak Permainan Judi Dadu Kocok Kopyok Uang Asli\"><img src=\"https:\/\/farm1.staticflickr.com\/919\/43191571631_f898bbcbd2_m.jpg\" width=\"240\" height=\"135\" alt=\"Teknik Tebak Permainan Judi Dadu Kocok Kopyok Uang Asli\" \/><\/a><\/p> <p>Teknik Tebak Permainan Judi Dadu Kocok Kopyok Uang Asli \u2013 Untuk negara Indonesia sendiri memang sudah para masyarakatnya tidak asing lagi dengan yang mendengar permainan judi dadu kocok. Seperti umumnya cara bermain di permainan judi dadu online ini akan dikocok menggunakan alat mangkok \/ t... <br \/> <br \/> <a href=\"http:\/\/comfortbet.info\/teknik-tebak-permainan-judi-dadu-kocok-kopyok-uang-asli\/\" rel=\"nofollow\">comfortbet.info\/teknik-tebak-permainan-judi-dadu-kocok-ko...<\/a><\/p>",
+			"published": "2018-07-04T10:30:56Z",
+			"author": "nobody@flickr.com (\"PJBPRO\")",
+			"author_id": "153431116@N08",
+			"tags": "agenjudi agensicboonline agenterpercaya bermainjudi carabermainjudi carabermainjudidadusupayamenang caramenangmainjudidadu casino dadu dadukocok dadukopyok daduonline daduonlineterpercaya daftarjudidaduuangasli games judidadu judidadukocokonlineuangasli judidaduonline judidaduonlineterpercaya mainjudidaduuangasli minimal onlineterpercaya onlineuang permainandadu permainandaduonline permainanjudi permainanjudidadu permainanjudidaduonline permainansicbo sicbodadu terpercaya tipsmenangjudidadu uangasli"
+	   },
+	   {
+			"title": "Kvarner Bay, Croatia",
+			"link": "https:\/\/www.flickr.com\/photos\/cindro\/43191571871\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1808\/43191571871_c59126671b_m.jpg"},
+			"date_taken": "2018-06-13T08:45:22-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/cindro\/\">Elena Antonietta<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/cindro\/43191571871\/\" title=\"Kvarner Bay, Croatia\"><img src=\"https:\/\/farm2.staticflickr.com\/1808\/43191571871_c59126671b_m.jpg\" width=\"240\" height=\"180\" alt=\"Kvarner Bay, Croatia\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:57Z",
+			"author": "nobody@flickr.com (\"Elena Antonietta\")",
+			"author_id": "75912753@N02",
+			"tags": ""
+	   },
+	   {
+			"title": "\"The grass is always greener on the other side of the fence.\"",
+			"link": "https:\/\/www.flickr.com\/photos\/155303758@N02\/43191572111\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1764\/43191572111_e62351d329_m.jpg"},
+			"date_taken": "2018-04-29T18:43:26-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/155303758@N02\/\">bartosz.jat<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/155303758@N02\/43191572111\/\" title=\"&quot;The grass is always greener on the other side of the fence.&quot;\"><img src=\"https:\/\/farm2.staticflickr.com\/1764\/43191572111_e62351d329_m.jpg\" width=\"240\" height=\"135\" alt=\"&quot;The grass is always greener on the other side of the fence.&quot;\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:30:58Z",
+			"author": "nobody@flickr.com (\"bartosz.jat\")",
+			"author_id": "155303758@N02",
+			"tags": ""
+	   },
+	   {
+			"title": "201807041364622410325172007",
+			"link": "https:\/\/www.flickr.com\/photos\/30709062@N05\/43191572401\/",
+			"media": {"m":"https:\/\/farm2.staticflickr.com\/1763\/43191572401_57c9f85826_m.jpg"},
+			"date_taken": "2018-07-04T03:31:00-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/30709062@N05\/\">theresabourassa<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/30709062@N05\/43191572401\/\" title=\"201807041364622410325172007\"><img src=\"https:\/\/farm2.staticflickr.com\/1763\/43191572401_57c9f85826_m.jpg\" width=\"240\" height=\"160\" alt=\"201807041364622410325172007\" \/><\/a><\/p> ",
+			"published": "2018-07-04T10:31:00Z",
+			"author": "nobody@flickr.com (\"theresabourassa\")",
+			"author_id": "30709062@N05",
+			"tags": ""
+	   }
+        ]
+})
